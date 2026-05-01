@@ -39,5 +39,3 @@ The performance gap can be narrowed through token-level adjustments and stabilit
 - Will Chiappetta
 - Dylan Benson
 - Nicholas Cavallaro
-README.md
-Displaying README.md.
